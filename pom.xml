@@ -129,7 +129,7 @@ Copyright (c) 2012 - Jeremy Long
         <slf4j.version>1.7.30</slf4j.version>
         <logback.version>1.2.3</logback.version>
         <!-- Note that Maven will use classes from the distro, ignoring declared dependencies for Maven core... -->
-        <maven.api.version>3.1.0</maven.api.version>
+        <maven.api.version>3.8.1</maven.api.version>
         <reporting.checkstyle-plugin.version>3.1.1</reporting.checkstyle-plugin.version>
         <doxia-module-markdown.version>1.9.1</doxia-module-markdown.version>
         <maven-antrun-plugin.version>3.0.0</maven-antrun-plugin.version>
@@ -161,7 +161,7 @@ Copyright (c) 2012 - Jeremy Long
         <mockito-core.version>3.4.4</mockito-core.version>
         <jsoup.version>1.13.1</jsoup.version>
         <commons-compress.version>1.20</commons-compress.version>
-        <org.apache.maven.shared.file-management.version>3.0.0</org.apache.maven.shared.file-management.version>
+        <org.apache.maven.shared.file-management.version>3.1.0</org.apache.maven.shared.file-management.version>
         <maven-plugin-testing-harness.version>3.3.0</maven-plugin-testing-harness.version>
         <maven-plugin-annotations.version>3.6.0</maven-plugin-annotations.version>
         <maven-reporting-api.version>3.0</maven-reporting-api.version>
